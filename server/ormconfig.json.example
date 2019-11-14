@@ -1,0 +1,8 @@
+{
+    "type": "sqlite",
+    "database": "/path/to/TestApricity.sqlite",
+    "entities": [
+        "dist/**/**.entity.js"
+    ],
+    "logging": true
+}
