@@ -17,8 +17,10 @@ The goal of this small web application is to visualize database data. A user can
 ### Server
 - Set up the database TestApricity.sqlite with a table *person*.
 - Complete the `ormconfig.json` file with the path to the database
-- Go to the server directory and run `npm run start:dev`
+- Go to the server directory and run `npm install`
+- Run `npm run start:dev`
 
 ### Client
 - Complete the `.env` file with the server URL
-- Go to the client directory and run `npm start`
+- Go to the client directory and run `npm install`
+- Run `npm start`
